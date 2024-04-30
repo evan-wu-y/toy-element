@@ -5,5 +5,5 @@ defineOptions({
 </script>
 
 <template>
-  <button style="background-color: chocolate"><slot></slot></button>
+  <button style="background-color: red"><slot></slot></button>
 </template>
